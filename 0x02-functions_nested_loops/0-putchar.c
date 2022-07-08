@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main -  prints Holberton, followed by a new line
+ * main -  prints main, followed by a new line
  *
  * Return: Always 0 (Success)
  *
@@ -25,8 +25,6 @@ int main(void)
 	_putchar('a');
 
 	_putchar('r');
-
-	_putchar('o');
 
 	_putchar('\n');
 
