@@ -2,12 +2,13 @@
 #define LEN 4
 
 void _memset(char *s, char c, int len);
-
 char *_strcpy(char *dest, char *src);
 
 /**
  * main - check the code for Holberton School students.
+ *
  * Return: Always 0.
+ *
 */
 
 int main(void)
